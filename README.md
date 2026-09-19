@@ -26,7 +26,8 @@ I think it'd be really fun to learn! What I love about network security is that 
 * libpcap
 
 ### Linux or windows?
-Linux all the way! I spend a lot of my time working in security-focused distros. I use Parrot OS, and let me tell you, AMAZING. I even flash it onto USBs to boot on my machines. It just gives you so much control over your environment, especially for packet manipulation!
+Linux all the way! I spend a lot of my time working in security-focused distros. I use Linux Mint, and let me tell you, AMAZING. I even flash it onto USBs to boot on my machines. It just gives you so much control over your environment, especially for packet manipulation! and
+very much easy and mostly looks like windows but it still a linux distro
 
 ### What do you think are your coolest projects?
 I am the main maintainer for the **Light-Projects** organization!!!
