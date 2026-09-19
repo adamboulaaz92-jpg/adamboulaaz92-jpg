@@ -19,9 +19,11 @@ I think it'd be really fun to learn! What I love about network security is that 
 
 ### What are the languages/libraries/command lines you know?
 * Python
+* Scapy 
+* LightPacket
 * Bash
-* CustomTkinter (for building GUIs!)
-* Linux Cmd / CLI
+* C
+* libpcap
 
 ### Linux or windows?
 Linux all the way! I spend a lot of my time working in security-focused distros. I use Parrot OS, and let me tell you, AMAZING. I even flash it onto USBs to boot on my machines. It just gives you so much control over your environment, especially for packet manipulation!
